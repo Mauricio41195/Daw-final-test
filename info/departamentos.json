@@ -330,123 +330,131 @@
 
 
 	{
-		"nombre": "",
-		"informacion": "",
-		"datos": "",
-		"municipios": "",
+		"nombre": "Morazán",
+		"informacion": "El departamento se encuentra en la parte nororiental de El Salvador. Su territorio se encuentra a una altitud de entre 500 y 1.000 metros sobre el nivel del mar y tiene una topografía relativamente accidentada. Entre las elevaciones más importantes se encuentran el Cerro El Pericón, cerca de la frontera con Honduras; y el Cerro Cacahuatique. La precipitación media anual en Morazán varía de entre 2.300 a 2.600 milímetros. Algunos ríos del departamento son el Torola, Tamarindo, Cañas, Yamabal y San Francisco, casi todos ellos pertenecen a la cuenca hidrográfica del Río Grande de San Miguel.",
+		"datos": "Morazán es un departamento de El Salvador ubicado en la zona oriental del país. Limita al Norte con la república de Honduras; al Sur y al Oeste con el departamento de San Miguel, y al Sur y al Este con el departamento de La Unión. Su cabecera departamental es San Francisco. Morazán comprende un territorio de 1 447 km² y cuenta con una población de 181 285 habitantes. En el departamento todavía se conservan rastros de la presencia de los paleoindios —primeros pobladores de El Salvador— en la Cueva del Espíritu Santo, un sitio arqueológico con pinturas rupestres en las cercanías del municipio de Corinto. En la época previa a la conquista española, Morazán estuvo habitado por indígenas lencas. En la época colonial, el territorio estuvo subdivido en los partidos de Gotera y Osicala. Fue creado con el nombre de departamento de Gotera el julio de 1875, por disposición del presidente Santiago González. Por decreto de la Asamblea Legislativa recibió su nombre actual el 14 de marzo de 1887, en homenaje al unionista centroamericano general Francisco Morazán.",
+		"municipios": "Arambala, Cacaopera, Chilanga, Corinto, Delicias de Concepción, El Divisadero, El Rosario, Gualococti, Guatajiagua, Joateca, Jocoaitique, Jocoro, Lolotiquillo, Meanguera, Osicala, Perquín, San Carlos, San Fernando, San Francisco, San Isidro, San Simón, Sensembra, Sociedad, Torola, Yamabal y Yoloaiquín.",
 		"personajes": [{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Morazan/img1.jpg",
+				"nombre": "Fidel sánchez",
+				"bio": "Recibió sus estudios primarios y secundarios en los centros de estudios de su país, seguidamente ingresó como cadete de la Escuela MilitarCapitán General Gerardo Barrios , habiéndose graduado con honores, ascendiendo de rangos y conservando su antigüedad en cada ascenso, de forma virtuosa dentro de la Institución Castrense."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Morazan/img2.jpg",
+				"nombre": "Erick vargas",
+				"bio": "Empezó a dibujar a los seis años de edad, un don que Dios le concedió, por ello se ha convertido en el maestro de muchos niños y niñas quienes reciben talleres de dibujo y pintura en los centros educativos de la ciudad y sus alrededores, inculcando en las nuevas generaciones el amor por el arte y ocupar el tiempo de manera positiva."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Morazan/img3.jpg",
+				"nombre": "Gregorio Chávez",
+				"bio": "José Gregorio Rosa Chávez (Sociedad, 3 de septiembre de 1942) es un obispo católico y primer cardenal salvadoreño. Realizó sus estudios primarios a partir del segundo grado en el pueblo de Sociedad, departamento de Morazán. Debido a las limitantes de este pequeño pueblo se vio obligado a trasladarse a Jocoro para poder continuar sus estudios desde cuarto hasta sexto grado."
 			}
 
 		],
 		"imagenes": [
-			"",
-			"",
-			""
+			"img/Lugares-turisticos/Morazan/img1.jpg",
+			"img/Lugares-turisticos/Morazan/img2.jpg",
+			"img/Lugares-turisticos/Morazan/img3.jpg"
 		],
-		"txtslider": ["", "", ""]
+		"txtslider": [".", ".", "."]
 	},
 
 
 
 
 	{
-		"nombre": "",
-		"informacion": "",
-		"datos": "",
-		"municipios": "",
+		"nombre": "San miguel",
+		"informacion": "San Miguel es un departamento de El Salvador. Su cabecera departamentales San Miguel, ciudad que se encuentra a 138 km de San Salvador. Limita al Norte con la República de Honduras; al Este con los departamentos de Morazán y La Unión; al Oeste con los departamentos de Cabañas y Usulután; y al Sur con el océano Pacífico. Cubre un área de 2.077,1 km² y tiene una población que sobrepasa los 480.000 habitantes. Fue declarado departamento el 12 de junio de 1824. Originalmente, el departamento de San Miguel, abarcaba todo el territorio que hoy forma la Zona Oriental de El Salvador, teniendo como frontera oeste al río Lempa; al norte y este limitaba con Honduras; al sureste con el Golfo de Fonseca; y por el sur limitaba con el océano Pacífico. Pero a finales del siglo XIX San Salvador dividió el territorio en los actuales cuatro departamentos con el objetivo de limitar la influencia de la ciudad de San Miguel en los intereses nacionales. Ciertamente, los decretos de creación de los departamentos orientales dejan explicitado ese hecho.",
+		"datos": "El territorio fue poblado originalmente por grupos lencas. Tras la fundación de la villa de San Salvador en 1525, los españoles encomendaron al capitán Luis de Moscoso la fundación de San Miguel de la Frontera, la cual tuvo lugar en 1530. En 1865, durante el Gobierno de Francisco Dueñas, fue determinado que el departamento redujera su dimensión y se creara a expensas del territorio los departamentos de La Unión y Usulután.",
+		"municipios": "Carolina, Chapeltique, Chinameca, Chirilagua, Ciudad Barrios, Comacarán, El Tránsito, Lolotique, Moncagua, Nueva Guadalupe, Nuevo Edén de San Juan, Quelepa, San Antonio, San Gerardo, San Jorge, San Luis de la Reina, San Miguel, San Rafael Oriente, Sesori y Uluazapa.",
 		"personajes": [{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/San%20miguel/img1.jpg",
+				"nombre": "David guzmán",
+				"bio": "David Joaquín Guzmán (San Miguel, El Salvador, 15 de agosto de 1843 - San Salvador, El Salvador, 20 de enero de 1927), mayormente conocido sólo como David J. Guzmán, fue un político, médico y escritor salvadoreño aficionado al estudio de la botánica, la zoología y la arqueología, y quien fundó el Museo Nacional de El Salvador y escribió la Oración a la Bandera Salvadoreña.s"
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/San%20miguel/img2.jpg",
+				"nombre": "Monseñor Romero",
+				"bio": "Óscar Arnulfo Romero y Galdámez (Ciudad Barrios, 15 de agosto de 1917 – San Salvador, 24 de marzo de 1980), conocido como monseñor Romero,2​ fue un sacerdote católico salvadoreño y el cuarto arzobispo metropolitano de San Salvador (1977-1980), célebre por su prédica en defensa de los derechos humanos y por haber muerto asesinado durante la celebración de la misa en la capilla del hospital Divina Providencia"
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/San%20miguel/img3.jpg",
+				"nombre": "Gerardo Barrio",
+				"bio": "josé Gerardo Barrios Espinoza, conocido como Gerardo Barrios (San Juan Lempa, hoy Nuevo Edén de San Juan, San Miguel, El Salvador, 24 de septiembre de 1813 - San Salvador, El Salvador, 29 de agosto de 1865) fue un militar, estadista y político salvadoreño, quien como senador designado se encargo de la presidencia de El Salvador"
 			}
 
 		],
 		"imagenes": [
-			"",
-			"",
-			""
+			"img/Lugares-turisticos/San%20miguel/img1.jpg",
+			"img/Lugares-turisticos/San%20miguel/img2.jpg",
+			"img/Lugares-turisticos/San%20miguel/img3.jpg"
 		],
-		"txtslider": ["", "", ""]
+		"txtslider": ["volcán de san miguel", "volcán de san miguel", "volcán de san miguel"]
 	},
 
 
 
 
 	{
-		"nombre": "",
-		"informacion": "",
-		"datos": "",
-		"municipios": "",
+		"nombre": "Usulután",
+		"informacion": "Usulután ubicado en la zona oriental es uno de los catorce departamentos que conforman la República de El Salvador. Su cabecera (ciudad principal) es Usulután que cuenta con una población de 73 064 habitantes según censo del 2007, ocupando la posición número 15 en población.",
+		"datos": "Usulután fue habitado originalmente por grupos lencas. Hacia el siglo XV, sin embargo, fueron conquistados por pipiles. Durante la época de la conquista, los residentes repelieron durante un mes a las milicias españolas en el año 1529, quienes estaban bajo el mando de Diego de Rojas. Asimismo, en 1539 hostigaron a una avanzada de Pedro de Alvarado en la zona de la actual Bahía de Jiquilisco. No fue hasta 1553 que Diego de Holguin logró la pacificación del sitio. Centro público de educación media de la ciudad. De acuerdo al arzobispo Pedro Cortés y Larraz, en 1770 la aldea era cabeza de curato y tenía una población 2 047 habitantes. Debido al establecimiento de la Intendencia de San Salvador en 1786, Usulután fue uno de sus Partidos. Con los intentos de emancipación de 1811, Gregorio Melara lideró una serie de disturbios que llegaron a deponer a las autoridades locales, pero al final fue encarcelado. Nuevamente se involucró en los conatos libertarios de 1814, pero también fue apresado y terminó sus días en la Fortaleza de San Fernando en Omoa.",
+		"municipios": "Alegría, Berlín, California, Concepción Batres, El Triunfo, Ereguayquín, Estanzuelas, Jiquilisco, Jucuapa, Jucuarán, Mercedes Umaña, Nueva Granada, Ozatlán, Puerto El Triunfo, San Agustín, San Buenaventura, San Dionisio, San Francisco Javier, Santa Elena, Santa María, Santiago de María, Tecapán y Usulután.",
 		"personajes": [{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Usulutan/img1.jpg",
+				"nombre": "Alvaro Torres",
+				"bio": "Álvaro Torres nació en Hacienda Nueva, Municipio de Concepción Batres, Departamento de Usulután, República de El Salvador. Creció en la región del Bajo Lempa concretamente en el cantón Los Linderos a orillas del Río Lempa.Sus padres, Maria del Carmen Torres y José Germán Ibarra , fue de él que heredó su hermoso talento y la pasión por la música."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Usulutan/img2.jpg",
+				"nombre": "Schafik Hándal",
+				"bio": "Conocido con el seudónimo de «Comandante Simón», fue uno de los cinco miembros de la Comandancia General que dirigió la guerra revolucionaria del FMLN (1981-1992), fue Secretario General del Partido Comunista Salvadoreño (PCS) (1973-1994), partido que se integró en el FMLN plena y definitivamente en 1995."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/Usulutan/img3.jpg",
+				"nombre": "Antonio saca",
+				"bio": "Elías Antonio Saca González, popularmente conocido como Tony Saca , nació en la ciudad de Usulután, El Salvador, el 9 de marzo de 1965, desciende de una familia palestina católica que llegó a El Salvador a principios del siglo XX. En 1983, comenzó estudios superiores inacabados de periodismo en la Universidad de El Salvador."
 			}
 
 		],
-		"imagenes": ["", "", ""],
-		"txtslider": ["", "", ""]
+		"imagenes": [
+			"img/Lugares-turisticos/Usulutan/img1.jpg",
+			"img/Lugares-turisticos/Usulutan/img2.jpg",
+			"img/Lugares-turisticos/Usulutan/img3.jpg"
+		],
+		"txtslider": ["Usulután", "Usulután", "Usulután"]
 	},
 
 
 
 
 	{
-		"nombre": "",
-		"informacion": "",
-		"datos": "",
-		"municipios": "",
+		"nombre": "La unión",
+		"informacion": "El territorio de lo que hoy es la Ciudad de La Unión, fue divisado por primera vez, desde las aguas del Océano Pacífico, cuando a principios del año 1522, el piloto Andrés Niño llegó al Golfo de Conchagua (Golfo Chorotega), y lo bautizó con el nombre de GOLFO DE FONSECA, en honor al Obispo de Burgos y Presidente del Consejo de Indias, Fraile Juan Rodrigo de Fonseca. Andrés Niño desembarcó en la Isla de Meanguera del Golfo frente a las actuales playas del Departamento de La Unión, la conquista no se inició, sino dos años más tarde, en 1524 cuando llegó al territorio salvadoreño el Capitán Hernán Cortes. En 1588 el pirata Drake amenazó a los habitantes del Golfo de Fonseca; así mismo para el año de 1596 los Frailes Seráficos Españoles fundaron la Guardianía de Nuestra Señora de las Nieves de Amapala en el lugar que hoy se conoce como Pueblo Viejo. Para los años de 1682 llegó una tropa de piratas ingleses al Golfo de Fonseca; se dice que estos causaron destrucción y muerte en los pueblos lencas, los habitantes fueron despojados de sus bienes, razón por la cual emigraron hacia el norte de Honduras y Amapala.",
+		"datos": "El antiguo puerto de San Carlos, bautizado a raíz de la independencia con el sugestivo nombre de La Unión, en el distrito de San Alejo, había progresado notablemente en los comedios de la centuria XIX. No sólo eran importantes sus edificios y obras públicas, sino que su progreso deriva también del aumento en el número. De sus habitantes, con familias de propiedad y cultura, y en la intensificación de sus relaciones mercantiles. Todo lo contrario sucedía en la villa de San Alejo, que ha ido y va en decadencia , por cuyos motivos la Asamblea Legislativa; con fecha 28 de febrero de 1854, emitió un decreto legislativo, que suscribió el presidente don José María San Martín, en virtud del cual se otorgó al pueblo del puerto de San Carlos de la Unión, el título de ciudad.",
+		"municipios": "Agua Caliente ,Agua Escondida ,Amapalita ,Chiquirín ,El Coyolito ,El Jícaro ,El Tihuilotal ,Isla Zacatillo ,La Quezadilla ,Las Maderas ,Loma Larga y Siramá.",
 		"personajes": [{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/La%20union/img1.jpg",
+				"nombre": "Salvador Ferrusca",
+				"bio": "Salvador (Garita Palmera, San Francisco Menéndez, Ahuachapán, El Salvador, 1975), es un náufrago salvadoreño que llegó a ser conocido después de haber sido encontrado el 30 de enero de 2014 en las Islas Marshall, y afirmó haber pasado 14 meses a la deriva en un barco de pesca de tiburón en el océano Pacífico,2​ después de haber zarpado de la pesquería Paredón, Chiapas."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/La%20union/img2.jpg",
+				"nombre": "Asensio Sáez",
+				"bio": "Asensio Sáez (cuyo verdadero nombre de pila fue Ascensio), fue un narrador, ensayista, poeta y pintor español, miembro del grupo literario Azarbe. Nació en La Unión (Murcia) en 1923, y murió en la misma ciudad en 2007. Estudió magisterio y sirvió como maestro nacional hasta su jubilación. Regentaba una librería que llevaba y lleva su nombre ya que permanece aún abierta en su ciudad natal."
 			},
 			{
-				"imgp": "",
-				"nombre": "",
-				"bio": ""
+				"imgp": "img/Personas-celebres/La%20union/img3.jpeg",
+				"nombre": "María Salcedo",
+				"bio": "María Cegarra Salcedo (La Unión, 1903 - Murcia, 1993) fue una poetisa española, así como la primera licenciada de España en Ciencias Químicas. De padre comerciante y madre maestra de origen andaluz, el precedente literario en su familia lo ocupa el hermano Andrés Cegarra Salcedo, autor de una breve pero estimable obra narrativa Tras el suceso doloroso de la muerte de dicho hermano, María publicaría su primer poema ."
 			}
 
 		],
-		"imagenes": ["", "", ""],
-		"txtslider": ["", "", ""]
+		"imagenes": [
+			"img/Lugares-turisticos/La%20union/img1.jpg",
+			"img/Lugares-turisticos/La%20union/img2.jpg",
+			"img/Lugares-turisticos/La%20union/img3.jpg"
+		],
+		"txtslider": ["La unión", "La unión", "La unión"]
 	}
 ]
