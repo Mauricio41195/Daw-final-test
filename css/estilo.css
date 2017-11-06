@@ -1,0 +1,24 @@
+body{
+	/*background: url(../img/banner2.jpg);*/
+}
+
+header{
+	background: black;
+	color: white;
+}
+
+.adaptacion{
+	height: 75vh;
+	width: 100%;
+}
+
+.responsive{
+	height: 35vh;
+}
+
+.mapa iframe{
+	text-align: center;
+	width: 100%;
+	
+
+}
