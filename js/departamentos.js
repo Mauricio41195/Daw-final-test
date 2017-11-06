@@ -56,7 +56,7 @@ $.getJSON("info/departamentos.json",function(dato){
 		for(var i = 0; i<14; i++){
 			$(".dropdown-item")[i].onclick = function(e){info_dep(e)}
 		}
-
+		$("#index").click(function(){location.reload()})
 
 	})
 
